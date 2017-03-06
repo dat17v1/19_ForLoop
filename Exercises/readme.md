@@ -15,27 +15,13 @@
     * * * * * * * * * *
 `````
 
-2. Print the folowing to the console using 2 for loops.
-
-`````
-    * 
-    * * 
-    * * * 
-    * * * * 
-    * * * * * 
-    * * * * * * 
-    * * * * * * * 
-    * * * * * * * *  
-    * * * * * * * * * 
-    * * * * * * * * * *
-`````
-3. Using a for loop, print this to your console:
+2. Using a for loop, print this to your console:
 
 `````
     1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 `````    
 
-4. Create a method called greet(), that takes an int as a parameter. The method should print out hello there the amount of times specified in the methods parameter.
+3. Create a method called greet(), that takes an int as a parameter. The method should print out hello there the amount of times specified in the methods parameter.
 
 `````
     // Example:
@@ -46,7 +32,7 @@
     Hello
 `````
 
-5. Create a method called print(), that takes an int as a parameter. The method should print out the same as in exercise 1, but should be able to print out a dynamic amount of stars according to the number specified in the parameter.
+4. Create a method called print(), that takes an int as a parameter. The method should print out the same as in exercise 1, but should be able to print out a dynamic amount of stars according to the number specified in the parameter.
 
 `````
     // Example
@@ -64,7 +50,7 @@
     * * *
 
 `````
-6. Do the same as exercise 5, but now the method should print the same as in exercise 2.
+5. Do the same as exercise 5, but now the method should print the same as in exercise 2.
 
 `````
     // Example
@@ -83,9 +69,22 @@
     * * * * * 
 
 `````
+6. Print the folowing to the console using 2 for loops.
 
+`````
+    * 
+    * * 
+    * * * 
+    * * * * 
+    * * * * * 
+    * * * * * * 
+    * * * * * * * 
+    * * * * * * * *  
+    * * * * * * * * * 
+    * * * * * * * * * *
+`````
 
-3. Create an Array of Integers, whith a length of 1000.
+7. Create an Array of Integers, whith a length of 1000.
     * **Adding number to the Array**
         * Using a loop you should add even numbers starting at 2.
     * **Reading from the Array**
