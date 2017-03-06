@@ -16,6 +16,7 @@
 `````
 
 2. Using a for loop, print this to your console:
+1. test
 
 `````
     1, 2, 3, 4, 5, 6, 7, 8, 9, 10
