@@ -84,10 +84,10 @@
     * * * * * * * * * *
 `````
 
-7 . Create an Array of Integers, whith a length of 1000.
-    * **Adding number to the Array**
-        * Using a loop you should add even numbers starting at 2.
-    * **Reading from the Array**
-        * Add (+) all numbers in the array and print the _sum_ to the console. 
-        * find the avarage of all the numbers in the array and print it to the console
-        * Find the highest number in the Array and print it to the console. _(Here you should imagine that you do not now that the array has a length of 1000 and that you only put in even numbers starting at 2 - actually this could change :))_
+7 . * Create an Array of Integers, whith a length of 1000.
+        * **Adding number to the Array**
+            * Using a loop you should add even numbers starting at 2.
+        * **Reading from the Array**
+            * Add (+) all numbers in the array and print the _sum_ to the console. 
+            * find the avarage of all the numbers in the array and print it to the console
+            * Find the highest number in the Array and print it to the console. _(Here you should imagine that you do not now that the array has a length of 1000 and that you only put in even numbers starting at 2 - actually this could change :))_
