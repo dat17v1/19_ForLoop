@@ -49,4 +49,14 @@ public class Loop
         }
 
     }
+
+    public void test()
+    {
+
+    }
+
+    public static void test2()
+    {
+        
+    }
 }
